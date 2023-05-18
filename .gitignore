@@ -19,6 +19,7 @@ coverage/
 # build
 dist
 dist-ssr
+build/
 
 # misc
 .env
